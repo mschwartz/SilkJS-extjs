@@ -1,0 +1,12 @@
+ExtJS 3.4.0 Grids and SilkJS Schema/ORM Demo.
+
+First install SilkJS from http://github.com/mschwartz/SilkJS
+* Be sure to run 'sudo ./silkjs Install.js' from the SilkJS directory.
+
+Second clone this repository from http://github.com/mschwartz/SilkJS-extjs
+
+Third, from the SilkJS-extjs directory:
+  httpd-silk.js ./config.js ./Server.js
+
+Point your browser at http://localhost:9090/
+
